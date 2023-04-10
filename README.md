@@ -8,6 +8,7 @@ Student ID: 6537394
 Project Download Link: https://drive.google.com/drive/u/1/folders/1wrn0OmSvbxk_wPQtgnzfrPRYXm5-aM0a 
 
      Include:
+     
      Game Design Document
      Unity Package
      Underwater-Miner Game version 0.1.2
